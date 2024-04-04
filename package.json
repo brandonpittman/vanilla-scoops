@@ -1,6 +1,6 @@
 {
   "name": "vanilla-scoops",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Helpers for Vanilla Extract",
   "publishConfig": {
     "access": "public"
