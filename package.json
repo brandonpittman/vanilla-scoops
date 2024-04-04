@@ -8,11 +8,11 @@
   "files": [
     "dist"
   ],
-  "main": "./dist/index.js",
-  "module": "./dist/index.mjs",
+  "main": "./dist/index.css.js",
+  "module": "./dist/index.css.mjs",
   "exports": {
-    "require": "./dist/index.js",
-    "import": "./dist/index.mjs",
+    "require": "./dist/index.css.js",
+    "import": "./dist/index.css.mjs",
     "types": "./dist/index.d.ts"
   },
   "types": "./dist/index.d.ts",
