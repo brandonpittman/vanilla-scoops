@@ -13,7 +13,7 @@
   "exports": {
     "require": "./dist/index.css.js",
     "import": "./dist/index.css.mjs",
-    "types": "./dist/index.d.ts"
+    "types": "./dist/index.css.d.ts"
   },
   "types": "./dist/index.d.ts",
   "scripts": {
