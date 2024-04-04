@@ -1,5 +1,5 @@
 import { GlobalStyleRule, globalStyle } from "@vanilla-extract/css"
-import { assignLayer, resetLayer } from "./layers"
+import { assignLayer, resetLayer } from "./layers.css"
 
 export const globalStyles = (
   layer: typeof resetLayer,

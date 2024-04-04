@@ -1,2 +1,2 @@
-export { globalStyles } from "./global"
-export { assignLayer } from "./layers"
+export { globalStyles } from "./global.css"
+export { assignLayer } from "./layers.css"
